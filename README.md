@@ -5,3 +5,6 @@
 
 ### My Stack
 ![My Stack](https://skillicons.dev/icons?i=laravel,vue,tailwind,pinia)
+
+### Stats
+<img src="https://github-readme-stats.vercel.app/api?username=KSadoun&show_icons=true&theme=radical" />
