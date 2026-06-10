@@ -12,7 +12,7 @@
 <div align="center">
   
   [![Website](https://img.shields.io/badge/🌐_Portfolio-khalid--sadoun.me-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khalid-sadoun.me)
-  [![CV](https://img.shields.io/badge/📄_Resume-View_CV-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/YOUR_CV_LINK_HERE)
-  [![Email](https://img.shields.io/badge/📧_Email-khalid@example.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalid@example.com)
+  [![CV](https://img.shields.io/badge/📄_Resume-View_CV-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/15nL5c6YRr3b4H8MWaJJCAevhiIYerQlk?usp=sharing)
+  [![Email](https://img.shields.io/badge/📧_Email-sadounkhalid@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadounkhalid@gmail.com)
   
 </div>
