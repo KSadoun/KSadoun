@@ -7,3 +7,12 @@
 
 ### My Stack
 ![My Stack](https://skillicons.dev/icons?i=laravel,vue,tailwind,pinia)
+
+
+<div align="center">
+  
+  [![Website](https://img.shields.io/badge/🌐_Portfolio-khalid.dev-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+  [![CV](https://img.shields.io/badge/📄_Resume-Download_CV-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]()
+  [![Email](https://img.shields.io/badge/📧_Email-khalid@example.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalid@example.com)
+  
+</div>
