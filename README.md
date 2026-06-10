@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FF5733&center=true&vCenter=true&width=600&lines=🤝+Open+for+freelance+%26+contract+work;⚡+183+commits+this+year+and+climbing;🐛+Turning+problems+into+solutions;📫+DM+me+to+build+something+cool" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Khalid+👋;From+C%2B+to+legendary;183+commits+and+counting;Open+for+collabs+%26+coffee+☕)](https://git.io/typing-svg)
 
 ### Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,vue,laravel,py,cpp,php,mysql,git,github,docker,linux,postman,idea,vscode,regex)
